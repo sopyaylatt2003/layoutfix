@@ -5,6 +5,10 @@ export default {
     fontFamily: {
       sans: ["Barlow", "sans-serif"],
     },
+    letterSpacing: {
+      wider:'.1em',
+      widest: '.25em',
+    },
     container: {
       center: true,
       // default breakpoints but with 40px removed
